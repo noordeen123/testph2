@@ -1,0 +1,11 @@
+{
+  "id": "3e133b76-4f98-436b-903f-fdb817bef366",
+  "name": "tooljetdb1",
+  "options": {
+    "operation": "",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false
+  },
+  "dataSourceId": "30ff0861-fbe5-4f3f-8553-481d58be3a56",
+  "appVersionId": "a5ba1d44-e25c-48c1-a5ec-1dd0931d12c8"
+}

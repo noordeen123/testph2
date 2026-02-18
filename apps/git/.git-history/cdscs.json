@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "git",
+  "appCoRelationId": "5d9401bc-86e7-4685-b092-d8eea73f6645",
+  "gitAppId": "b3753df2-29ad-431b-b61f-6a7691f5f025",
+  "branchName": "cdscs",
+  "gitVersionName": "cdscs",
+  "gitVersionId": "d9df5b40-ab4e-4c83-89c8-508f2a1b6ab4",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-18T08:48:14.473Z",
+  "updatedAt": "2026-02-18T08:48:14.473Z"
+}
