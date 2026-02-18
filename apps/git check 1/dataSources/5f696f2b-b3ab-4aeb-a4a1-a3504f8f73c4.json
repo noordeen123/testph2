@@ -1,0 +1,10 @@
+{
+  "id": "5f696f2b-b3ab-4aeb-a4a1-a3504f8f73c4",
+  "name": "runpydefault",
+  "kind": "runpy",
+  "type": "static",
+  "pluginId": null,
+  "appVersionId": null,
+  "organizationId": "674823ac-1567-4d4c-af6f-27dc784f2ee0",
+  "scope": "global"
+}
