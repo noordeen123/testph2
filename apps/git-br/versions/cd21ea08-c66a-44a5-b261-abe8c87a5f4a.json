@@ -12,8 +12,8 @@
   },
   "pageSettings": {
     "properties": {
-      "hideLogo": true,
-      "hideHeader": true,
+      "hideLogo": false,
+      "hideHeader": false,
       "disableMenu": {
         "value": "{{true}}",
         "fxActive": false
