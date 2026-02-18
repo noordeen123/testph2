@@ -1,0 +1,11 @@
+{
+  "id": "6dbf2e28-e761-41f1-b94a-0e559aaecc1b",
+  "name": "runjs1_copy",
+  "options": {
+    "code": "return actions.showAlert('error','hello world')",
+    "parameters": [],
+    "runOnPageLoad": true
+  },
+  "dataSourceId": "3003c84e-0d64-4cdd-920c-970bf17a194e",
+  "appVersionId": "1d736467-f327-440d-bf31-6a0cb2de61cf"
+}
