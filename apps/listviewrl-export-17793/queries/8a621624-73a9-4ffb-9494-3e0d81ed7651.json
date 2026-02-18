@@ -1,0 +1,61 @@
+{
+  "id": "8a621624-73a9-4ffb-9494-3e0d81ed7651",
+  "name": "fetch",
+  "options": {
+    "operation": "list_rows",
+    "transformationLanguage": "javascript",
+    "enableTransformation": true,
+    "table_id": "260ee04c-bed6-40c1-aab9-070969d4e0b9",
+    "join_table": {
+      "joins": [
+        {
+          "id": 1770110247458,
+          "conditions": {
+            "operator": "AND",
+            "conditionsList": [
+              {
+                "operator": "=",
+                "leftField": {
+                  "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+                },
+                "rightField": {}
+              }
+            ]
+          },
+          "joinType": "INNER"
+        }
+      ],
+      "from": {
+        "name": "260ee04c-bed6-40c1-aab9-070969d4e0b9",
+        "type": "Table"
+      },
+      "fields": []
+    },
+    "list_rows": {
+      "order_filters": {
+        "0bd2e89d-bb6d-40e0-a625-c5c7c3ea9f42": {
+          "column": "id",
+          "order": "asc",
+          "id": "0bd2e89d-bb6d-40e0-a625-c5c7c3ea9f42"
+        }
+      },
+      "where_filters": {
+        "0d1280a4-7657-421a-aa2c-7dcebeb1aa41": {
+          "column": "",
+          "operator": "",
+          "value": "",
+          "id": "0d1280a4-7657-421a-aa2c-7dcebeb1aa41"
+        }
+      },
+      "limit": ""
+    },
+    "runOnPageLoad": true,
+    "transformations": {
+      "javascript": "const selectedStatus = components.dropdown1.value;\nconst selectedPriority = components.dropdown2.value;\n\nlet filteredData = data;\n\n// Filter by status if not \"All\"\nif (selectedStatus !== 'All') {\n  filteredData = filteredData.filter(ticket => ticket.status === selectedStatus);\n}\n\n// Filter by priority if not \"All\"\nif (selectedPriority !== 'All') {\n  filteredData = filteredData.filter(ticket => ticket.priority === selectedPriority);\n}\n\nreturn filteredData;",
+      "python": "# write your code here\n# return value will be set as data and the original data will be available as rawData\n[row for row in data if row['amount'] > 1000]\n  "
+    },
+    "organization_id": "674823ac-1567-4d4c-af6f-27dc784f2ee0"
+  },
+  "dataSourceId": "30ff0861-fbe5-4f3f-8553-481d58be3a56",
+  "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
+}

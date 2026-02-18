@@ -1,0 +1,18 @@
+{
+  "id": "13dbc061-a63c-4bd9-a32e-e4ace88b336b",
+  "name": "onSelect",
+  "index": 0,
+  "event": {
+    "eventId": "onSelect",
+    "message": "Hello world!",
+    "queryId": "8a621624-73a9-4ffb-9494-3e0d81ed7651",
+    "actionId": "run-query",
+    "alertType": "info",
+    "component": "dropdown1",
+    "queryName": "fetch",
+    "parameters": {}
+  },
+  "sourceId": "347e9de9-606e-4086-93ef-45be9383ed13",
+  "target": "component",
+  "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
+}
