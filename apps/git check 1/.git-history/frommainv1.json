@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "git check 1",
+  "appCoRelationId": "a037a440-f035-4345-a0ef-da048f9c8a14",
+  "gitAppId": "e20116d1-9f4b-46f5-a0cd-9ab73f06b10e",
+  "branchName": "frommainv1",
+  "gitVersionName": "frommainv1",
+  "gitVersionId": "9cd9727a-3053-48f4-97e8-30ab21a5d86f",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-18T09:35:37.443Z",
+  "updatedAt": "2026-02-18T09:35:37.443Z"
+}

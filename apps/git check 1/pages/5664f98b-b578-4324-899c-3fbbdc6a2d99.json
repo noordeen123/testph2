@@ -1,0 +1,18 @@
+{
+  "id": "5664f98b-b578-4324-899c-3fbbdc6a2d99",
+  "name": "v1group",
+  "handle": "group-1",
+  "index": 999,
+  "disabled": null,
+  "hidden": null,
+  "icon": "IconAdjustmentsDown",
+  "autoComputeLayout": true,
+  "appVersionId": "1d736467-f327-440d-bf31-6a0cb2de61cf",
+  "pageGroupIndex": 1,
+  "pageGroupId": null,
+  "isPageGroup": true,
+  "url": null,
+  "openIn": "new_tab",
+  "type": "group",
+  "appId": ""
+}
