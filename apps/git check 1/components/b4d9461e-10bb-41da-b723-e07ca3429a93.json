@@ -1,0 +1,93 @@
+{
+  "id": "b4d9461e-10bb-41da-b723-e07ca3429a93",
+  "name": "listview1",
+  "type": "Listview",
+  "pageId": "93303cb4-7e46-4691-897d-84c48479f13c",
+  "parent": null,
+  "properties": {
+    "dataSourceSelector": {
+      "value": "rawJson"
+    },
+    "data": {
+      "value": "{{[\n    { imageURL: 'https://www.svgrepo.com/show/34217/image.svg', text: 'Sample text 1', buttonText: 'Button 1' },\n      { imageURL: 'https://www.svgrepo.com/show/34217/image.svg', text: 'Sample text 1', buttonText: 'Button 2' },\n      { imageURL: 'https://www.svgrepo.com/show/34217/image.svg', text: 'Sample text 1', buttonText: 'Button 3' },\n    ]}}"
+    },
+    "mode": {
+      "value": "list"
+    },
+    "columns": {
+      "value": "{{3}}"
+    },
+    "rowHeight": {
+      "value": "100"
+    },
+    "dynamicHeight": {
+      "value": "{{false}}"
+    },
+    "visible": {
+      "value": "{{true}}"
+    },
+    "showBorder": {
+      "value": "{{true}}"
+    },
+    "rowsPerPage": {
+      "value": "{{10}}"
+    },
+    "enablePagination": {
+      "value": "{{false}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderColor": {
+      "value": "var(--cc-weak-border)"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "1ff0d697-1dab-482a-bff7-fc6260d56c86",
+      "type": "desktop",
+      "top": 1230,
+      "left": 1,
+      "width": 41,
+      "height": 450,
+      "componentId": "b4d9461e-10bb-41da-b723-e07ca3429a93",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "2a1bab28-436d-450d-948e-59306feca3cd",
+      "type": "mobile",
+      "top": 1240,
+      "left": 6,
+      "width": 15,
+      "height": 450,
+      "componentId": "b4d9461e-10bb-41da-b723-e07ca3429a93",
+      "dimensionUnit": "count"
+    }
+  ]
+}

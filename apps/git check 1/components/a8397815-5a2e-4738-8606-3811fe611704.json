@@ -1,0 +1,123 @@
+{
+  "id": "a8397815-5a2e-4738-8606-3811fe611704",
+  "name": "chat1",
+  "type": "Chat",
+  "pageId": "93303cb4-7e46-4691-897d-84c48479f13c",
+  "parent": "2fd3f41d-1089-4495-bab5-baef9d40e0cb-t2",
+  "properties": {
+    "chatTitle": {
+      "value": "Chat"
+    },
+    "initialChat": {
+      "value": "{{[{\n                message: 'Ask me anything!',\n                messageId: 'e3dd6f60-d5e8-46c5-b73b-006f2f4a34f2',\n                timestamp: 'new Date().toISOString()',\n                name: 'Assistant',\n                avatar: '',\n                type: 'response',\n              },\n              {\n                message: 'Explain software development cycle',\n                messageId: 'aad219d2-0349-4f61-a959-424bf62795f6',\n                timestamp: 'new Date().toISOString()',\n                name: 'User',\n                avatar: '',\n                type: 'message',\n              }]}}"
+    },
+    "userName": {
+      "value": "{{globals.currentUser.firstName}}"
+    },
+    "userAvatar": {
+      "value": ""
+    },
+    "respondentName": {
+      "value": "Assistant"
+    },
+    "respondentAvatar": {
+      "value": ""
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disableInput": {
+      "value": "{{false}}"
+    },
+    "loadingHistory": {
+      "value": "{{false}}"
+    },
+    "loadingResponse": {
+      "value": "{{false}}"
+    },
+    "enableClearHistoryButton": {
+      "value": "{{true}}"
+    },
+    "enableDownloadHistoryButton": {
+      "value": "{{true}}"
+    },
+    "placeholder": {
+      "value": "Ask me anything!"
+    }
+  },
+  "general": {},
+  "styles": {
+    "name": {
+      "value": "var(--cc-primary-text)"
+    },
+    "message": {
+      "value": "var(--cc-primary-text)"
+    },
+    "timestamp": {
+      "value": "var(--cc-placeholder-text)"
+    },
+    "backgroundColorField": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderColorField": {
+      "value": "var(--cc-default-border)"
+    },
+    "accentColorField": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "textColorField": {
+      "value": "var(--cc-primary-text)"
+    },
+    "sendIconColorField": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "containerBackgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderColorContainer": {
+      "value": "var(--cc-weak-border)"
+    },
+    "boxShadowContainer": {
+      "value": "#121212"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "e1b93f72-48d2-458c-b7ae-f9b3eb3f6b0d",
+      "type": "desktop",
+      "top": 50,
+      "left": 2,
+      "width": 16,
+      "height": 480,
+      "componentId": "a8397815-5a2e-4738-8606-3811fe611704",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "b39403d6-4986-42d0-a6bd-025f5aa68378",
+      "type": "mobile",
+      "top": 50,
+      "left": 2,
+      "width": 16,
+      "height": 400,
+      "componentId": "a8397815-5a2e-4738-8606-3811fe611704",
+      "dimensionUnit": "count"
+    }
+  ]
+}

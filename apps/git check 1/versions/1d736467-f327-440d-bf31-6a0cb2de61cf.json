@@ -8,18 +8,19 @@
     "canvasMaxHeight": 2400,
     "canvasBackgroundColor": "var(--cc-appBackground-surface)",
     "backgroundFxQuery": "",
-    "appMode": "light"
+    "appMode": "auto"
   },
   "pageSettings": {
     "properties": {
       "hideHeader": false,
       "hideLogo": true,
-      "position": "top",
+      "position": "side",
       "disableMenu": {
-        "value": "{{true}}",
+        "value": "{{false}}",
         "fxActive": false
       },
-      "name": "frommainv1"
+      "name": "frommainv1",
+      "collapsable": false
     },
     "styles": {
       "backgroundColor": {
@@ -30,11 +31,11 @@
   },
   "showViewerNavigation": true,
   "homePageId": "d98e96c3-72ff-4e67-9ea2-8e5b3b4cf637",
-  "versionType": "version",
+  "versionType": "branch",
   "appId": "a037a440-f035-4345-a0ef-da048f9c8a14",
-  "currentEnvironmentId": "1f02f9a8-0ea6-4248-a5e0-f3fd9afdf232",
+  "currentEnvironmentId": "e58553aa-1f14-467d-ac34-8092b81ae7a3",
   "promotedFrom": null,
-  "status": "PUBLISHED",
+  "status": "DRAFT",
   "description": null,
   "publishedAt": null,
   "releasedAt": null
