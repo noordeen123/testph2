@@ -1,0 +1,114 @@
+{
+  "id": "ef7f05c4-38ae-44ae-a28e-781a35021fb0",
+  "name": "delete",
+  "options": {
+    "operation": "delete_rows",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "table_id": "260ee04c-bed6-40c1-aab9-070969d4e0b9",
+    "join_table": {
+      "joins": [
+        {
+          "id": 1770110260773,
+          "conditions": {
+            "operator": "AND",
+            "conditionsList": [
+              {
+                "operator": "=",
+                "leftField": {
+                  "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+                },
+                "rightField": {}
+              }
+            ]
+          },
+          "joinType": "INNER"
+        }
+      ],
+      "from": {
+        "name": "260ee04c-bed6-40c1-aab9-070969d4e0b9",
+        "type": "Table"
+      },
+      "fields": [
+        {
+          "name": "id",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "ticketNumber",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "customerName",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "customerEmail",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "customerAvatar",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "subject",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "description",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "category",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "priority",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "status",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "assignedAgent",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "agentAvatar",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "createdDate",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "updatedDate",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        },
+        {
+          "name": "responseTime",
+          "table": "260ee04c-bed6-40c1-aab9-070969d4e0b9"
+        }
+      ]
+    },
+    "list_rows": {},
+    "delete_rows": {
+      "limit": 1,
+      "where_filters": {
+        "0f5eb291-2b14-4972-901a-f397f80449d0": {
+          "column": "id",
+          "operator": "eq",
+          "value": "{{components.bab9f916-3e54-4b37-9708-f6843cff1a7d.selectedRecord.text11.text}}",
+          "id": "0f5eb291-2b14-4972-901a-f397f80449d0",
+          "columnDataType": ""
+        }
+      }
+    },
+    "showSuccessNotification": true,
+    "successMessage": "Ticket Deleted Successfully!!",
+    "organization_id": "674823ac-1567-4d4c-af6f-27dc784f2ee0"
+  },
+  "dataSourceId": "30ff0861-fbe5-4f3f-8553-481d58be3a56",
+  "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
+}
