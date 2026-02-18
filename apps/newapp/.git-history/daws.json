@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "newapp",
+  "appCoRelationId": "8c0c540e-d620-43fe-b118-af6ee9c8a169",
+  "gitAppId": "ba0502bd-083f-4135-86f9-3da5491b29b7",
+  "branchName": "daws",
+  "gitVersionName": "daws",
+  "gitVersionId": "66b90701-3df2-44c0-b316-e271461296cb",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-18T12:40:30.719Z",
+  "updatedAt": "2026-02-18T12:40:30.719Z"
+}
