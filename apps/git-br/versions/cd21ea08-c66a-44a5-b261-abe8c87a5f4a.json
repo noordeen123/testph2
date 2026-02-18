@@ -1,0 +1,34 @@
+{
+  "id": "cd21ea08-c66a-44a5-b261-abe8c87a5f4a",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": {
+    "properties": {
+      "hideLogo": true,
+      "hideHeader": true,
+      "disableMenu": {
+        "value": "{{true}}",
+        "fxActive": false
+      },
+      "name": "git-bcufbsesf"
+    }
+  },
+  "showViewerNavigation": true,
+  "homePageId": "1c7faf67-18d9-49a6-a38d-ed6ed9818b33",
+  "versionType": "branch",
+  "appId": "2e8b0322-ece0-42fe-8639-85dee8be3d39",
+  "currentEnvironmentId": "e58553aa-1f14-467d-ac34-8092b81ae7a3",
+  "promotedFrom": null,
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null
+}
