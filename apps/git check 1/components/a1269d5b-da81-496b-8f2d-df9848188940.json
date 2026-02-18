@@ -100,7 +100,7 @@
       "value": "{{true}}"
     },
     "showOnMobile": {
-      "value": "{{false}}"
+      "value": "{{true}}"
     }
   },
   "validation": {},
@@ -118,9 +118,9 @@
     {
       "id": "7425a8e4-c38a-4d6f-b0d0-3f169a41193c",
       "type": "mobile",
-      "top": 190,
-      "left": 24,
-      "width": 10,
+      "top": 460,
+      "left": 13,
+      "width": 30,
       "height": 40,
       "componentId": "a1269d5b-da81-496b-8f2d-df9848188940",
       "dimensionUnit": "count"

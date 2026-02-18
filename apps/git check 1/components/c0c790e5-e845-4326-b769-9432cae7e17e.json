@@ -37,7 +37,7 @@
   },
   "displayPreferences": {
     "showOnDesktop": {
-      "value": "{{true}}"
+      "value": "{{false}}"
     },
     "showOnMobile": {
       "value": "{{false}}"
@@ -58,9 +58,9 @@
     {
       "id": "2c58192e-54ae-4208-b554-14100c634146",
       "type": "mobile",
-      "top": 1720,
-      "left": 1,
-      "width": 20,
+      "top": 1630,
+      "left": 0,
+      "width": 43,
       "height": 640,
       "componentId": "c0c790e5-e845-4326-b769-9432cae7e17e",
       "dimensionUnit": "count"

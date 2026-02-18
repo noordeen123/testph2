@@ -120,9 +120,6 @@
     "selectedText": {
       "value": "var(--cc-primary-text)"
     },
-    "highlightColor": {
-      "value": "var(--cc-primary-brand)"
-    },
     "hoverBackground": {
       "value": "#1B1F24"
     },
@@ -157,11 +154,7 @@
       "value": "default"
     }
   },
-  "generalStyles": {
-    "boxShadow": {
-      "value": "0px 0px 0px 0px #00000040"
-    }
-  },
+  "generalStyles": {},
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -186,9 +179,9 @@
       "id": "15c572da-77c8-486f-b6c5-a70f967a3a8e",
       "type": "mobile",
       "top": 540,
-      "left": 1,
-      "width": 15,
-      "height": 450,
+      "left": 0,
+      "width": 43,
+      "height": 640,
       "componentId": "29ae25f8-b9ca-4595-855f-2024aabd9040",
       "dimensionUnit": "count"
     }

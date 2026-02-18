@@ -82,9 +82,9 @@
     {
       "id": "9258db9c-d4a3-43a3-93e6-e2664f5b5057",
       "type": "mobile",
-      "top": 1240,
-      "left": 6,
-      "width": 15,
+      "top": 1180,
+      "left": 0,
+      "width": 43,
       "height": 450,
       "componentId": "c55ddaa5-0489-4881-9cbd-b4c708a455b9",
       "dimensionUnit": "count"

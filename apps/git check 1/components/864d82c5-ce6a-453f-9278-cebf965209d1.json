@@ -210,7 +210,7 @@
       "value": "{{true}}"
     },
     "visibility": {
-      "value": "{{true}}"
+      "value": "{{false}}"
     },
     "disabledState": {
       "value": "{{false}}"
@@ -301,9 +301,9 @@
     {
       "id": "cae36b00-fb7d-4661-bc6f-5d8d1f7d50d6",
       "type": "mobile",
-      "top": 40,
-      "left": 1,
-      "width": 25,
+      "top": 0,
+      "left": 0,
+      "width": 43,
       "height": 460,
       "componentId": "864d82c5-ce6a-453f-9278-cebf965209d1",
       "dimensionUnit": "count"

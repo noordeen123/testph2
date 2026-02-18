@@ -1,0 +1,15 @@
+{
+  "id": "abf7aba4-c210-4d6e-a21b-067bb55079b5",
+  "name": "onPageLoad",
+  "index": 0,
+  "event": {
+    "eventId": "onPageLoad",
+    "message": "Hello world!",
+    "actionId": "show-alert",
+    "alertType": "info",
+    "component": "page"
+  },
+  "sourceId": "d98e96c3-72ff-4e67-9ea2-8e5b3b4cf637",
+  "target": "page",
+  "appVersionId": "1d736467-f327-440d-bf31-6a0cb2de61cf"
+}
