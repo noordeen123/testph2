@@ -1,0 +1,18 @@
+{
+  "id": "41c7a795-f906-4174-9809-bc24f89e5b83",
+  "name": "URL 1",
+  "handle": "url-1",
+  "index": 3,
+  "disabled": null,
+  "hidden": null,
+  "icon": null,
+  "autoComputeLayout": true,
+  "appVersionId": "1d736467-f327-440d-bf31-6a0cb2de61cf",
+  "pageGroupIndex": 4,
+  "pageGroupId": null,
+  "isPageGroup": false,
+  "url": "https://www.tooljet.com",
+  "openIn": "new_tab",
+  "type": "url",
+  "appId": ""
+}
