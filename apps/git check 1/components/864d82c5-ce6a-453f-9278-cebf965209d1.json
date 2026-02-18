@@ -198,7 +198,7 @@
       "value": "{{true}}"
     },
     "hideColumnSelectorButton": {
-      "value": "{{false}}"
+      "value": "{{true}}"
     },
     "defaultSelectedRow": {
       "value": "{{{\"id\":1}}}"
@@ -210,13 +210,13 @@
       "value": "{{true}}"
     },
     "visibility": {
-      "value": "{{false}}"
+      "value": "{{true}}"
     },
     "disabledState": {
-      "value": "{{false}}"
+      "value": "{{true}}"
     },
     "dynamicHeight": {
-      "value": "{{false}}"
+      "value": "{{true}}"
     },
     "selectRowOnCellEdit": {
       "value": "{{false}}"
@@ -283,7 +283,7 @@
       "value": "{{true}}"
     },
     "showOnMobile": {
-      "value": "{{false}}"
+      "value": "{{true}}"
     }
   },
   "validation": {},
