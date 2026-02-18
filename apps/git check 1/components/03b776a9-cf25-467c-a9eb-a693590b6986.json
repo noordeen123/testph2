@@ -1,0 +1,69 @@
+{
+  "id": "03b776a9-cf25-467c-a9eb-a693590b6986",
+  "name": "pdf1",
+  "type": "PDF",
+  "pageId": "93303cb4-7e46-4691-897d-84c48479f13c",
+  "parent": null,
+  "properties": {
+    "url": {
+      "value": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Guideline_No._GD-Ed-2214_Marman_Clamp_Systems_Design_Guidelines.pdf"
+    },
+    "scale": {
+      "value": "{{true}}"
+    },
+    "pageControls": {
+      "value": "{{true}}"
+    },
+    "showDownloadOption": {
+      "value": "{{true}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "borderColor": {
+      "value": "var(--cc-weak-border)"
+    },
+    "borderRadius": {
+      "value": 6
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "8ebdbb59-0a39-47e0-bfa0-15e1aa20e7ce",
+      "type": "desktop",
+      "top": 1720,
+      "left": 1,
+      "width": 20,
+      "height": 640,
+      "componentId": "03b776a9-cf25-467c-a9eb-a693590b6986",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "4ba444e7-20cc-4320-bf22-248f743ce6c6",
+      "type": "mobile",
+      "top": 1720,
+      "left": 1,
+      "width": 20,
+      "height": 640,
+      "componentId": "03b776a9-cf25-467c-a9eb-a693590b6986",
+      "dimensionUnit": "count"
+    }
+  ]
+}

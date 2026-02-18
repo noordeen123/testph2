@@ -1,0 +1,11 @@
+{
+  "id": "f311cc6e-53b3-47f4-a52f-291ee9589549",
+  "name": "runjs1",
+  "options": {
+    "code": "return actions.showAlert('error','hello world')",
+    "parameters": [],
+    "runOnPageLoad": true
+  },
+  "dataSourceId": "3003c84e-0d64-4cdd-920c-970bf17a194e",
+  "appVersionId": "1d736467-f327-440d-bf31-6a0cb2de61cf"
+}
