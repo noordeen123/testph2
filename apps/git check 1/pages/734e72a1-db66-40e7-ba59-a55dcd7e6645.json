@@ -4,7 +4,7 @@
   "handle": "home",
   "index": 0,
   "disabled": true,
-  "hidden": null,
+  "hidden": false,
   "icon": "IconAdCircleFilled",
   "autoComputeLayout": true,
   "appVersionId": "1d736467-f327-440d-bf31-6a0cb2de61cf",
