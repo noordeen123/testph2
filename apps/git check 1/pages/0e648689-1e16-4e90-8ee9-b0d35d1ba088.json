@@ -3,7 +3,7 @@
   "name": "Page 2",
   "handle": "page-2",
   "index": 2,
-  "disabled": null,
+  "disabled": false,
   "hidden": {
     "value": "{{true}}"
   },
@@ -16,5 +16,5 @@
   "url": null,
   "openIn": "new_tab",
   "type": "default",
-  "appId": ""
+  "appId": "a037a440-f035-4345-a0ef-da048f9c8a14"
 }

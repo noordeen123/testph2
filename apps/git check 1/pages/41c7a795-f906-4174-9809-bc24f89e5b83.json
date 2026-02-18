@@ -3,8 +3,8 @@
   "name": "URL 1",
   "handle": "url-1",
   "index": 3,
-  "disabled": null,
-  "hidden": null,
+  "disabled": false,
+  "hidden": false,
   "icon": null,
   "autoComputeLayout": true,
   "appVersionId": "1d736467-f327-440d-bf31-6a0cb2de61cf",
@@ -14,5 +14,5 @@
   "url": "https://www.tooljet.com",
   "openIn": "new_tab",
   "type": "url",
-  "appId": ""
+  "appId": "a037a440-f035-4345-a0ef-da048f9c8a14"
 }

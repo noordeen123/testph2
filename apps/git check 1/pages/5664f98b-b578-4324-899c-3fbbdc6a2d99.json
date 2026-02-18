@@ -3,8 +3,8 @@
   "name": "v1group",
   "handle": "group-1",
   "index": 999,
-  "disabled": null,
-  "hidden": null,
+  "disabled": false,
+  "hidden": false,
   "icon": "IconAdjustmentsDown",
   "autoComputeLayout": true,
   "appVersionId": "1d736467-f327-440d-bf31-6a0cb2de61cf",
@@ -14,5 +14,5 @@
   "url": null,
   "openIn": "new_tab",
   "type": "group",
-  "appId": ""
+  "appId": "a037a440-f035-4345-a0ef-da048f9c8a14"
 }
